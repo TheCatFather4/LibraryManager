@@ -1,4 +1,4 @@
-# LibraryManager
+# Library Manager
 
 ## About
 Lets the user manage a library of various media types (books, DVDs, and CD's) from a database.
