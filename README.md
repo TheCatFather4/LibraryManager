@@ -1,7 +1,7 @@
 # LibraryManager
 
 ## About
-Lets the user manage a library of various media types (books, DVDs, and CD's).
+Lets the user manage a library of various media types (books, DVDs, and CD's) from a database.
 
 ## Key Features
 There are three ways for the user to manage their library.
