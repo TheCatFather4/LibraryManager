@@ -1,0 +1,2 @@
+# LibraryManager
+Library manager application
