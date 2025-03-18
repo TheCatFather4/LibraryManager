@@ -17,4 +17,5 @@ Users can checkout media, return media, and get a checkout log.
 
 ## Notes
 A connection string and a container is required to connect to the database.
-Database is property of Skill Foundry (skillfoundry.io)
+
+Database (LibraryManager.sql) is property of Skill Foundry (skillfoundry.io)
